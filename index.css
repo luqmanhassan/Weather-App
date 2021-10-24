@@ -4,3 +4,17 @@
   box-sizing: border-box;
   text-align: center;
 }
+
+#example {
+  border: 2px solid black;
+  background-color: #01579b;
+  width: 300px;
+  margin: 100px auto;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
+}
+
+#example span {
+  display: block;
+}
